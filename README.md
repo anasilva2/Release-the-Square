@@ -5,4 +5,4 @@ HOW TO PLAY:
 
 python Release_the_square.py
 
-[!Release the Square](pythonGame.png)
+[!Release the Square](pythonGame.PNG)
